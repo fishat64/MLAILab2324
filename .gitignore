@@ -4,7 +4,10 @@
 !/PresentationReport1/ConvexityMeausre_FirstProgressMeeting.pdf
 /PresentationReport2/*
 !/PresentationReport2/ConvexityMeausre_SecondProgressMeeting.pdf
-/FinalPresentation
+/FinalPresentation/*
+!/FinalPresentation/refs.bib
+!/FinalPresentation/template.tex
+!/FinalPresentation/template-blx.bib
 /__pycache__
 /.ipynb_checkpoints
 /oldcode.ipynb
