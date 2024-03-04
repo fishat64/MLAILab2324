@@ -1,0 +1,11 @@
+/old
+/smbshrrep
+/PresentationReport1
+/PresentationReport2
+/FinalPresentation
+/__pycache__
+/.ipynb_checkpoints
+/oldcode.ipynb
+/images/*
+/shr/**/*.png
+/shr/**/log.txt
